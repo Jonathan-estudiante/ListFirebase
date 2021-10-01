@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="numero">Numero</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="foto">Foto</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="nombre">Nombre</string>
+    <string name="contacto_nuevo">Contacto Nuevo</string>
+    <string name="guardar">Guardar</string>
+    <string name="activity_list_contact_no_items">No hay Contactos</string>
+    <string name="activity_detail_contact_city">Ciudad</string>
+    <string name="activity_detail_contact_description">Descripcion</string>
+    <string name="editar_contacto">Editar Contacto</string>
+    <string name="editar">Editar</string>
+</resources>

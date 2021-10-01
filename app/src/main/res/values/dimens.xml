@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_detail_contact_name_size">15dp</dimen>
+    <dimen name="activity_detail_contact_information">15dp</dimen>
+    <dimen name="adapter_contact_name_size">15dp</dimen>
+</resources>
